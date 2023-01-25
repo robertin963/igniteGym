@@ -47,7 +47,7 @@ export function Home(){
             <ExerciseCard />
           )}
           showsVerticalScrollIndicator={false}
-          _contentContainerStyle={{ paddingBottom: 20}}
+          _contentContainerStyle={{ paddingBottom: 80}}
           
         />
 
